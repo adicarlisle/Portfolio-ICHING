@@ -223,7 +223,7 @@ alembic upgrade head
 
 ## License 📄
 
-[Specify your license here]
+[License](LICENSE)
 
 ## Acknowledgments 🙏
 
