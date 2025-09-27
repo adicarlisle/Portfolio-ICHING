@@ -347,3 +347,5 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+fastapi-backend/test.db
+fastapi-backend/glove/glove.6B.300d.txt

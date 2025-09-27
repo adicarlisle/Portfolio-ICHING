@@ -1,0 +1,32 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sqlalchemy==2.0.23
+pymysql==1.1.0
+cryptography==41.0.7
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+pydantic[email]==2.5.0
+
+# CORS support (often needed for frontend-backend communication)
+python-multipart==0.0.6
+
+# Database migrations
+alembic==1.13.0
+
+# Additional useful packages
+python-jose[cryptography]==3.3.0  # For JWT tokens if using authentication
+passlib[bcrypt]==1.7.4  # For password hashing
+bcrypt==4.1.1  # Required by passlib
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+coverage[toml]==7.3.2
+httpx==0.25.2
+
+# HTTP client
+requests==2.31.0
+numpy==1.24.3
+tqdm==4.66.1
