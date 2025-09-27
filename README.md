@@ -1,5 +1,7 @@
 # I Ching Query API 🔮
 
+![WhatsApp Image 2025-09-27 at 02 20 13_0e274087](https://github.com/user-attachments/assets/1122fc83-eba4-49cc-b372-4fa9ffbd00cc)
+
 An intelligent FastAPI backend that provides I Ching divination services using modern NLP techniques. The system analyzes queries using GloVe embeddings and returns relevant hexagrams with their traditional meanings.
 
 ## Features ✨
